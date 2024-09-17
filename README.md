@@ -105,13 +105,13 @@ Implements functions to create interactive visualizations of the reasoning proce
   <tr>
     <td>
       <figure>
-        <img src="assets/4o.png" width="200" height="400">
+        <img src="assets/4o.png" width="350">
         <figcaption>Output from ChatGPT (4o)</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="assets/io.png" width="750" height="400">
+        <img src="assets/io.png" width="750">
         <figcaption>Basic Input/Output (io)</figcaption>
       </figure>
     </td>
@@ -119,13 +119,13 @@ Implements functions to create interactive visualizations of the reasoning proce
   <tr>
     <td>
       <figure>
-        <img src="assets/cot.png" width="750" height="400">
+        <img src="assets/cot.png" width="750">
         <figcaption>Chain of Thought (CoT)</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="assets/got.png" width="750" height="400">
+        <img src="assets/got.png" width="750">
         <figcaption>Graph of Thought (GoT)</figcaption>
       </figure>
     </td>
