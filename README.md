@@ -154,7 +154,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Meta for developing the Llama 3.1 model.
 - Streamlit for their excellent framework for building data applications.
 - The open-source community for various libraries used in this project.
-
-## Contact
-
-For questions or feedback, please open an issue in the GitHub repository or contact the maintainers directly.
