@@ -1,5 +1,10 @@
 # x-of-Thought: Advanced Reasoning Visualization
 
+<!-- ![4o](./assets/4o.png) -->
+<center>
+<img src="assets/got.png" width="700" height="400">
+</center>
+
 ## Overview
 
 x-of-Thought is an innovative project that demonstrates advanced reasoning visualization techniques using state-of-the-art language models. This application leverages the Llama 3.1 (8b-instruct-q4_K_M) model via Ollama to generate structured responses to user queries, providing insights into different reasoning processes.
@@ -93,6 +98,40 @@ Implements functions to create interactive visualizations of the reasoning proce
 - **Sentiment Analysis**: Each node in the Chain of Thought and Graph of Thoughts is analyzed for sentiment (Positive/Negative/Neutral), visually represented by node colors.
 - **Dynamic Graph Updates**: The Graph of Thoughts visualization supports node deletions, reflecting the evolving nature of complex reasoning.
 - **Scalable Visualization**: The force-directed layout ensures clear visualization even for complex reasoning graphs.
+
+## Results
+<center>
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="assets/4o.png" width="200" height="400">
+        <figcaption>Output from ChatGPT (4o)</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="assets/io.png" width="750" height="400">
+        <figcaption>Basic Input/Output (io)</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="assets/cot.png" width="750" height="400">
+        <figcaption>Chain of Thought (CoT)</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="assets/got.png" width="750" height="400">
+        <figcaption>Graph of Thought (GoT)</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+</center>
 
 ## Contributing
 
