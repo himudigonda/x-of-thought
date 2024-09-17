@@ -1,0 +1,6 @@
+streamlit
+langchain_community
+langchain
+networkx
+re
+plotly
